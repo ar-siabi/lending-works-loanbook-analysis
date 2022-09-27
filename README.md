@@ -14,3 +14,7 @@ Loan book data has been provided by Lending Works / Fluro and can be found on [t
 - Borrowers_Data.csv : Borrower profile dataset compiled in processing stage for exploratory analysis
 - loan_book_processing.ipynb : Data processing notebook outlining the coding used for cleaning and organising loan book data
 - loan_book_analysis.ipynb : Exploratory analysis notebook outlining the coding used for anlysing and summarising loan book data
+
+## Usage:
+
+If you'd like to demo and run the code in the processing and analysis notebooks, make sure to place the CSV datasets in the same directory as the notebooks so they can be accessed.
